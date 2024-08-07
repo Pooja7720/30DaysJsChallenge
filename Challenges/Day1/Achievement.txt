@@ -1,3 +1,5 @@
+DAY 1: Variables and Data Types
+
 By the end of these activities, you will:
 - Know how to declare a variable using `var`, `let`, and `const`.
 - Understand the different data types in JavaScript.

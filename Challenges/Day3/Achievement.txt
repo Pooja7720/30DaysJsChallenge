@@ -1,3 +1,5 @@
+Day 3: Control Structures
+
 By the end of these activities, students will:
 - Implement and understand basic if-else control flow.
 - Use nested if-else statements to handle multiple conditions.

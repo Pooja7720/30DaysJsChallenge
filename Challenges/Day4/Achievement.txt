@@ -1,3 +1,5 @@
+Day 4: Loops
+
 By the end of these activities, students will:
 - Understand and use for-loops to iterate over a sequence of numbers.
 - Utilize while-loops for iteration based on a condition.

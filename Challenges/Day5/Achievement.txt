@@ -1,3 +1,5 @@
+Day 5: Functions
+
 By the end of these activities, students will:
 - Understand and define functions using function declarations, expressions, and arrow functions.
 - Use function parameters and default values effectively.
